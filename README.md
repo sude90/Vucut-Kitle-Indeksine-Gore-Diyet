@@ -1,1 +1,2 @@
 # Vucut-Kitle-Indeksine-Gore-Diyet
+Yapmış olduğum uygulama; ilk olarak kişinin vücut kitle indeksini hesaplamak ve ona uygun bir diyet listesi sunmak için kullanıcıdan boy ve kilo girmesini ister.  Daha sonra kullanıcıdan alınan bilgilere göre vücut kitle indeksi hesaplanır ve kullanıcının kabul ettiği takdir de kişinin daha sağlıklı bir bireye dönüşebilmesi amacıyla kişiye uygun olarak hazırlanmış olan diyet programı kullanıcıya sunulur.
