@@ -1,0 +1,16 @@
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\Diyet Programı.exe
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\Diyet Programı.deps.json
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\Diyet Programı.runtimeconfig.json
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\Diyet Programı.runtimeconfig.dev.json
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\Diyet Programı.dll
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\ref\Diyet Programı.dll
+E:\Diyet Programı\Diyet Programı\Diyet Programı\bin\Debug\net5.0\Diyet Programı.pdb
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.csproj.AssemblyReference.cache
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.AssemblyInfoInputs.cache
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.AssemblyInfo.cs
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.csproj.CoreCompileInputs.cache
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.dll
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\ref\Diyet Programı.dll
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.pdb
+E:\Diyet Programı\Diyet Programı\Diyet Programı\obj\Debug\net5.0\Diyet Programı.genruntimeconfig.cache
